@@ -6,8 +6,13 @@
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-santoss&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
-<br>
+
+
+##
+
+    
 <div>
+  <p>Tecnologias que eu mais uso 👇</p>
   <img height="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img height="35" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img height="35" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -19,6 +24,7 @@
 
 
 <div>
+  <p>Contato:</p>
    <a href = "mailto:danielvinicius.santos7@gmail.com"> <img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <a href = "https://www.linkedin.com/in/daniel-vinicius-07a278275/"> <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
