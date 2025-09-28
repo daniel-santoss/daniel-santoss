@@ -1,30 +1,55 @@
-## Salve :)
-<br>
-<div>
-  <a href="https://www.linkedin.com/in/daniel-vinicius-07a278275/">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=daniel-santoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-santoss&layout=compact&langs_count=16&theme=dark"/>
+<h2 align="left">Sobre Mim</h2>
+
+###
+
+<p align="left">Desenvolvedor front-end;<br>Estudante de Análise e Desenvolvimento de Sistemas;<br>Ensino médio técnico em Tecnologia da Informação;<br>Também possuo conhecimento em redes e monitoramento;<br>Em busca da primeira experiência profissional na área.</p>
+
+###
+
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
-<br>
 
+###
 
-##
+<h2 align="left">Minhas Estastísticas</h2>
 
-    
-<div>
-  <p>Tecnologias que eu mais uso 👇</p>
-  <img height="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img height="35" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img height="35" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img height="35" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-santoss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-santoss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 
-##
+<h2 align="left">Contato</h2>
 
+###
 
-<div>
-  <p>Contato:</p>
-   <a href = "mailto:danielvinicius.santos7@gmail.com"> <img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href = "https://www.linkedin.com/in/daniel-vinicius-07a278275/"> <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
+
+###
