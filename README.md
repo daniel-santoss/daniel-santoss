@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Front-end;<br>Estudante de Análise e Desenvolvimento de Sistemas;<br>Ensino médio técnico em Tecnologia da Informação;<br>Também possuo conhecimento em redes.</p>
+<p align="left">Desenvolvedor Front-End;<br>Estudante de Análise e Desenvolvimento de Sistemas;<br>Ensino médio técnico em Tecnologia da Informação;<br>Também possuo conhecimento em redes.</p>
 
 ###
 
