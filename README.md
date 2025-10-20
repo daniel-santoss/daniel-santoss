@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor em progresso 🚀<br>Estudante de Análise e Desenvolvimento de Sistemas;<br>Ensino médio técnico em Tecnologia da Informação;<br>Também possuo conhecimento em redes.</p>
+<p align="left">Desenvolvedor em progresso 🚀<br>Cursando Análise e Desenvolvimento de Sistemas;<br>Formado em Tecnologia da Informação pelo ITB;<br>Também possuo conhecimento em redes.</p>
 
 ###
 
