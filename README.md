@@ -1,8 +1,8 @@
-<h2 align="left">Sobre Mim</h2>
+  <h2 align="left">Sobre Mim</h2>
 
 ###
 
-<p align="left">Desenvolvedor em progresso 🚀<br>Cursando Análise e Desenvolvimento de Sistemas;<br>Formado em Tecnologia da Informação pelo ITB;<br>Também possuo conhecimento em redes.</p>
+<p align="left">Desenvolvedor Web 🚀<br>Cursando Análise e Desenvolvimento de Sistemas;<br>Formado em Tecnologia da Informação pelo ITB;<br>Também possuo conhecimento em redes.</p>
 
 ###
 
