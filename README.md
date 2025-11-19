@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Web 🚀<br>Cursando Análise e Desenvolvimento de Sistemas;<br>Formado em Técnico em Informática pelo ITB;<br>Também possuo conhecimento em redes.</p>
+<p align="left">Desenvolvedor de Software 🚀<br>Cursando Análise e Desenvolvimento de Sistemas;<br>Formado em Técnico em Informática pelo ITB;<br>Também possuo conhecimento em redes.</p>
 
 ###
 
