@@ -1,4 +1,4 @@
-  <h2 align="left">Sobre Mim</h2>
+<h2 align="left">Sobre Mim</h2>
 
 ###
 
@@ -11,6 +11,14 @@
 ###
 
 <div align="left">
+
+
+<h4 align="left">Front-End</h4>
+
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
@@ -21,6 +29,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
+
+
+<h4 align="left">Back-End</h4>
+  
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
