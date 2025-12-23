@@ -71,7 +71,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel-santoss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" target="_blank" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-santoss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-santoss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -83,7 +83,7 @@
 
 <div align="left">
   
-  <a href="https://www.linkedin.com/in/daniel-viniciuss"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/daniel-viniciuss"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" target="_blank" /></a>
   <a href="mailto:danielvinicius.santos7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
   </a>
 </div>
