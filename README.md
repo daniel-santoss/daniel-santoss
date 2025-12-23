@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <img width="12" />
 
-<h4 align="left">Cloud & DevOps</h4>
+<h4 align="left">Cloud & DevOps (Aprendizado)</h4>
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
