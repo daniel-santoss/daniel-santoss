@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor de Software 🚀<br>Cursando Análise e Desenvolvimento de Sistemas;<br>Formado em Técnico em Informática pelo ITB;<br>Buscando uma oportunidade em desenvolvimento de software.</p>
+<p align="left">Dev 🧑‍💻<br>Cursando Análise e Desenvolvimento de Sistemas;<br>Formado em Técnico em Informática pelo ITB;<br>Buscando uma oportunidade em desenvolvimento de software.</p>
 
 ###
 
