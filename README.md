@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑‍💻Dev focado no desenvolvimento Full Stack;<br>Cursando Análise e Desenvolvimento de Sistemas;<br>Buscando uma oportunidade em desenvolvimento de software.</p>
+<p align="left">🧑‍💻Dev focado no desenvolvimento Full Stack;<br>💻Cursando Análise e Desenvolvimento de Sistemas;<br>🖥️Buscando uma oportunidade em desenvolvimento de software.</p>
 
 ###
 
