@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀Foco no desenvolvimento Full Stack;<br>💻Cursando Análise e Desenvolvimento de Sistemas;<br>🧑‍💻Buscando uma oportunidade em desenvolvimento ou Infraestrutura;<br>🛡️Entusiasta em Segurança da Informação.</p>
+<p align="left">🚀Foco no desenvolvimento Full Stack;<br>💻Cursando Análise e Desenvolvimento de Sistemas;<br>🧑‍💻Buscando uma oportunidade em desenvolvimento ou Infraestrutura;<br>🛡️Entusiasta em Cybersecurity.</p>
 
 ###
 
