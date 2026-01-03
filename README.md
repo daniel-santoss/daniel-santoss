@@ -32,7 +32,8 @@
 ### Cloud & DevOps (Aprendendo)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-%230058AD.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) &nbsp;
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-222?style=for-the-badge&logo=azure-devops&logoColor=white) &nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) &nbsp;
+![Docker](https://img.shields.io/badge/docker-%23430098.svg?style=for-the-badge&logo=docker&logoColor=white&color=003F8C) &nbsp;
+![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=fff&color=black) &nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
 ![GitLab](https://img.shields.io/badge/gitlab-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=white) &nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
