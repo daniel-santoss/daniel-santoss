@@ -32,7 +32,7 @@
 
 <br/>
 
-<h3 align="center">🛠️ Tech Stack & Ferramentas</h3>
+<h3 align="center">🛠️ Stack & Ferramentas</h3>
 
 <div align="center">
 
