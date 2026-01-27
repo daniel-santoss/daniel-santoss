@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀Desenvolvedor React & .NET;<br>💻Cursando Análise e Desenvolvimento de Sistemas;<br>🧑‍💻Busco oportunidade em desenvolvimento, cibersegurança ou Infraestrutura;<br>🛡️Entusiasta em Cybersecurity.</p>
+<p align="left">🚀Desenvolvedor React & .NET;<br>💻Cursando Análise e Desenvolvimento de Sistemas;<br>🛡️Entusiasta em Cybersecurity.</p>
 
 ###
 
