@@ -34,8 +34,8 @@
 
 <h3 align="center">🛠️ Stack & Ferramentas</h3>
 
-<div align="center">
-
+<div align="left">
+<h3 align="left">Front-end</h3>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   
   <br/>
-
+<h3 align="left">Back-end</h3>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -55,14 +55,14 @@
 
 
   <br/>
-
+<h3 align="left">Banco de Dados</h3>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
   <br/>
-
+<h3 align="left">Cloud & DevOps</h3>
   <img src="https://img.shields.io/badge/microsoft%20azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -73,8 +73,8 @@
 
 
 
-  <div align="center">
-    <br />
+  <div align="left"><h3 align="left">
+  <h3>Contato</h3>
   <a href="mailto:danielvinicius.santos7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -85,5 +85,4 @@
       <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
 </div>
-
 </div>
