@@ -26,8 +26,6 @@
   </a>
 </div>
 
-<br/>
-
 <h3 align="center">🛠️ Stack & Ferramentas</h3>
 
 <div align="left">
