@@ -21,12 +21,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-santoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-santoss&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-santoss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
