@@ -4,6 +4,8 @@
   </a>
 
   <br>
+
+
   
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -18,6 +20,11 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=3000&color=20B2AA&center=true&vCenter=true&width=600&height=30&lines=🛡️+Entusiasta+em+Cybersecurity" alt="Typing SVG" />
     </a>
   </p>
+</div>
+
+  <div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=daniel-santoss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-santoss&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
