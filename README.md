@@ -5,8 +5,6 @@
 
   <br>
 
-
-  
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=3000&color=20B2AA&center=true&vCenter=true&width=600&height=30&lines=🚀+Desenvolvedor+React+%26+.NET" alt="Typing SVG" />
