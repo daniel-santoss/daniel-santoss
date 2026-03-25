@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Codystar&weight=800&size=55&pause=3000&color=20B2AA&center=true&vCenter=true&width=600&lines=Daniel+Vinicius" alt="Typing SVG" />
   </a>
-
+  
   <br>
 
   <p align="center">
@@ -34,6 +34,7 @@
 <h3 align="center">🛠️ Stack & Ferramentas</h3>
 
 <div align="left">
+  
 <h3 align="left">Front-end</h3>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,7 +44,6 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-
   
   <br/>
 <h3 align="left">Back-end</h3>
@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/python-FCC624?style=for-the-badge&logo=python&logoColor=blue" />
-
 
   <br/>
 <h3 align="left">Banco de Dados</h3>
@@ -71,8 +70,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/gitlab-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-
-
 
   <div align="left"><h3 align="left">
   <h3>Contato</h3>
