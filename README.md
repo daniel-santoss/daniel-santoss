@@ -23,7 +23,7 @@
 
 ## 🏅 Certificações
 
-  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="250px" higth="250px" />
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="200px" higth="200px" />
 
 </div>
 <br />
