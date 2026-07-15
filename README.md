@@ -20,6 +20,17 @@
 </div>
 
 <div align="center">
+
+## 🏅 Certificações
+
+<a href="https://www.credly.com/badges/SEU-LINK" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="250px" higth="250px" />
+</a>
+
+</div>
+<br />
+
+<div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=daniel-santoss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-santoss&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
