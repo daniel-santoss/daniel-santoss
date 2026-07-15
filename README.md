@@ -29,12 +29,12 @@
 
 </div>
 <br />
-
+<!--
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=daniel-santoss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-santoss&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-
+!-->
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-santoss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
