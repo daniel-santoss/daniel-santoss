@@ -47,7 +47,7 @@
 | **Front-end** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" height="45" /> |
 | **Back-end** | <img src="https://skillicons.dev/icons?i=dotnet,cs,c,py" height="45" /> |
 | **Banco de Dados** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="45" alt="SQL Server" /> <img src="https://skillicons.dev/icons?i=mysql" height="45" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,gitlab,vercel" height="45" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,git,gitlab,vercel" height="45" /> |
 </div>
 <br>
 
