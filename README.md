@@ -41,23 +41,23 @@
 
 **Dados & Persistência**
 
-[![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
-[![T-SQL](https://img.shields.io/badge/T--SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
-[![Stored Procedures](https://img.shields.io/badge/STORED_PROCEDURES-8A2BE2?style=for-the-badge)](https://www.microsoft.com/sql-server)
+[![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC292B?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/sql-server)
+[![T-SQL](https://img.shields.io/badge/T--SQL-CC292B?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/sql-server)
+[![Stored Procedures](https://img.shields.io/badge/STORED_PROCEDURES-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)](https://www.microsoft.com/sql-server)
 
 **Arquitetura & Engenharia**
 
-[![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-1E293B?style=for-the-badge)](https://blog.cleancoder.com/)
-[![SOLID](https://img.shields.io/badge/SOLID-22C55E?style=for-the-badge)](https://en.wikipedia.org/wiki/SOLID)
-[![BFF Pattern](https://img.shields.io/badge/BFF_PATTERN-0284C7?style=for-the-badge)](https://learn.microsoft.com/azure/architecture/patterns/backends-for-frontends)
-[![REST API](https://img.shields.io/badge/REST_API-EA580C?style=for-the-badge)](https://restfulapi.net/)
+[![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-1E293B?style=for-the-badge&logo=buffer&logoColor=white)](https://blog.cleancoder.com/)
+[![SOLID](https://img.shields.io/badge/SOLID-22C55E?style=for-the-badge&logo=thealgorithms&logoColor=white)](https://en.wikipedia.org/wiki/SOLID)
+[![BFF Pattern](https://img.shields.io/badge/BFF_PATTERN-0284C7?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://learn.microsoft.com/azure/architecture/patterns/backends-for-frontends)
+[![REST API](https://img.shields.io/badge/REST_API-EA580C?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 
 **Cloud & DevOps**
 
-[![Microsoft Azure](https://img.shields.io/badge/MICROSOFT_AZURE-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Microsoft Azure](https://img.shields.io/badge/MICROSOFT_AZURE-0089D6?style=for-the-badge&logo=azure&logoColor=white)](https://azure.microsoft.com/)
 [![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/services/devops/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
