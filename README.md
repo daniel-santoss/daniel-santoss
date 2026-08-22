@@ -25,7 +25,7 @@
 * ⚛️ Desenvolvimento de interfaces com **React**, **Next.js** e **TypeScript**, implementando arquitetura **BFF (Backend for Frontend)** e contratos com tipagem estrita de ponta a ponta.
 * 💾 Otimização de consultas, rotinas e automação de relatórios via **Stored Procedures** no **SQL Server**.
 * 🛡️ Implementação de fluxos de autenticação e autorização com **JWT**, controle de permissões, escopos e gestão de usuários.
-* ☁️ Prática em ambientes de nuvem com foco em **Microsoft Azure** (Certificado **AZ-900**), estudos em **AWS** e pipelines no **Azure DevOps**.
+* ☁️ Prática em ambientes de nuvem com foco em **Microsoft Azure** (Certificado **AZ-900**), estudos em **AWS** e pipelines de **CI/CD**.
 
 ### 🛠️ Tecnologias e Ferramentas
 ---
