@@ -18,7 +18,7 @@
 ### 👨‍💻 Sobre mim
 ---
 
-💼 **Desenvolvedor Full Stack** com foco no ecossistema **.NET/C#** e graduando em Análise e Desenvolvimento de Sistemas.
+💼 **Desenvolvedor Full Stack na ADMEX** com foco no ecossistema **.NET/C#** e graduando em Análise e Desenvolvimento de Sistemas.
 
 * 🏛️ Aplicação de **Clean Architecture** e princípios **SOLID** para garantir código desacoplado, testável e manutenível.
 * 🌐 Manutenção e evolução de sistemas corporativos em **ASP.NET (Web Forms)** e **WinForms**, além da criação de **APIs REST**.
