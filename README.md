@@ -15,8 +15,9 @@
   </p>
 </div>
 
-### 👨‍💻 Sobre mim
 ---
+
+### 👨‍💻 Sobre mim
 
 💼 **Desenvolvedor Full Stack na ADMEX** com foco no ecossistema **.NET/C#** e graduando em Análise e Desenvolvimento de Sistemas.
 
