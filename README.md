@@ -58,9 +58,9 @@
 **Cloud & DevOps**
 
 [![Microsoft Azure](https://img.shields.io/badge/MICROSOFT_AZURE-0089D6?style=for-the-badge&logo=azure&logoColor=white)](https://azure.microsoft.com/)
-[![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/services/devops/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/services/devops/)
 [![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
