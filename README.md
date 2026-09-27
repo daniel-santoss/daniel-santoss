@@ -26,7 +26,7 @@
 * ⚛️ Desenvolvimento de interfaces com **React**, **Next.js** e **TypeScript**, implementando arquitetura **BFF (Backend for Frontend)** e contratos com tipagem estrita de ponta a ponta.
 * 💾 Otimização de consultas e rotinas **Stored Procedures** no **SQL Server**.
 * 🛡️ Implementação de fluxos de autenticação e autorização com **JWT**, controle de permissões, escopos e gestão de usuários.
-* ☁️ Prática em ambientes de nuvem com foco em **Microsoft Azure** (Certificado **AZ-900**), **AWS** e pipelines de **CI/CD**.
+* ☁️ Prática em ambientes de nuvem com foco em **AWS** e **Microsoft Azure** e pipelines de **CI/CD**.
 
 ### 🛠️ Tecnologias e Ferramentas
 ---
@@ -69,6 +69,10 @@
 <div align="center">
 
 ### 🏅 Certificações
+
+<a href="https://www.credly.com/badges/dd8dc633-90d2-4289-8023-6785f6c11492">
+<img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="160px" height="160px" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" />
+</a>
 
 <a href="https://learn.microsoft.com/certifications/azure-fundamentals/" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="160px" height="160px" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" />
