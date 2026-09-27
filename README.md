@@ -70,8 +70,8 @@
 
 ### 🏅 Certificações
 
-<a href="https://www.credly.com/badges/dd8dc633-90d2-4289-8023-6785f6c11492">
-<img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="160px" height="160px" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" />
+<a href="https://www.credly.com/badges/dd8dc633-90d2-4289-8023-6785f6c11492" target="_blank">
+<img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="160px" height="160px" alt="AWS Certified AI Practitioner" />
 </a>
 
 <a href="https://learn.microsoft.com/certifications/azure-fundamentals/" target="_blank">
